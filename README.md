@@ -32,5 +32,7 @@ Clone the [repository](https://github.com/LeMaker/WiringBP) and run `./build`. T
 
 # Compile and install
 
-Use the mighty force of shining CMake :D to compile the pico project.  
-(I used Armbian stretch but also other versions should work.)
+Go to the *source* directory and use the mighty force of shining CMake :D to compile the pico project.  
+The *wiringPi* sub folder contains the internal interface library for the installed wiringBP library.  
+
+(I used Armbian stretch on the Banana Pi but also more recent versions should work).
