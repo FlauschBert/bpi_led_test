@@ -15,7 +15,8 @@ In contrast to the Raspberry Pi the Banana Pi does wiring internally a little bi
 
 Be sure to use a resistor and also connect the correct side of the LED (long lead) to +.
 
-![](images/LEDHookup-basic_LED.png)
+![](images/LEDHookup-basic_LED.png)  
+(copyright notice: the image was taken from [www.evilmadscientist.com](https://www.evilmadscientist.com/2012/resistors-for-leds/))
 
 ## Resistor tables
 
@@ -24,7 +25,9 @@ Be sure to use a resistor and also connect the correct side of the LED (long lea
 * [Resistor Color Coding (german)](https://www.elektronik-kompendium.de/sites/bau/1109051.htm)
 
 ## Pins
-![](images/PIN_CONNECTOR.jpg)
+
+![](images/PIN_CONNECTOR.jpg)  
+(copyright notice: the image was taken from lemaker homepage)
 
 # Compile and install wiringBP library and tools
 
